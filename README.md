@@ -1,6 +1,6 @@
-# Fermentation (testing version)
+# Fermentation
 
-*Adds fermentation technology and realted stuff
+*Adds fermentation technology and related stuff.
 
 ## Features
 Every feature is based on historical context.
