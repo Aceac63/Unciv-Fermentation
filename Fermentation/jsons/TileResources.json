@@ -28,5 +28,21 @@
 			"production": 1
 		},
 		"building": "Teahouse"
+	},
+	{
+		"name": "Coffee",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": [
+			"Hill",
+			"Plains",
+			"Jungle"
+		],
+		"gold": 1,
+		"improvement": "Coffee plantation",
+		"improvementStats": {
+			"gold": 1,
+			"food": 1
+		},
+		"building": "Café"
 	}
 ]
