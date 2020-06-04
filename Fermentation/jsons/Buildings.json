@@ -38,5 +38,25 @@
 			"Gold from all trade routes +25%"
 		],
 		"requiredTech": "Fermentation"
+	},
+	{
+		"name": "Café",
+		"hurryCostModifier": 25,
+		"culture": 2,
+		"science": 2,
+		"gold": 1,
+		"happiness": 1,
+		"cost": 350,
+		"resourceBonusStats": {
+			"gold": 1,
+			"production": 1
+		},
+		"requiredNearbyImprovedResources": [
+			"Coffee"
+		],
+		"uniques": [
+			"Free Social Policy"
+		],
+		"requiredTech": "Economics"
 	}
 ]
