@@ -22,5 +22,17 @@
 			"gold": 1,
 			"production": 1
 		}
-	}
+	},
+	{
+		"name": "Coffee plantation",
+		"turnsToBuild": 5,
+		"gold": 1,
+		"food": 1,
+		"techRequired": "Fermentation",
+		"improvingTech": "Fertilizer",
+		"improvingTechStats": {
+			"gold": 1,
+			"production": 1
+		}
+	},
 ]
