@@ -1,7 +1,7 @@
 [
 	{
 		"columnNumber": 3,
-		"era": "Classical",
+		"era": "Classical era",
 		"techCost": 105,
 		"buildingCost": 100,
 		"wonderCost": 250,
@@ -19,7 +19,7 @@
 	},
 	{
 		"columnNumber": 4,
-		"era": "Classical",
+		"era": "Classical era",
 		"techCost": 175,
 		"buildingCost": 120,
 		"wonderCost": 300,
