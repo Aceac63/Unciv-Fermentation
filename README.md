@@ -1,12 +1,8 @@
 # Fermentation
-
-*Adds fermentation technology and related stuff.
+This mod adds 3 new resources, 3 new buildings, and the Fermentation tech.
 
 ## Features
-Every feature is based on historical context.
-
 ### New resources
-
 #### Hops
 ![Hops](https://github.com/Iver88/Unciv-Fermentation/blob/master/Fermentation/Preview/Hops.png?raw=true)
 
@@ -20,8 +16,7 @@ New luxury resource. Grows on grasslands and plains and provides gold.
 #### Fermentation
 Unlocks Hop garden and Tea plantation improvements for Hops and Tea luxury resources and Brewery and Teahouse buildings. Requires Calendar for unlock.
 
-### New improvements
-
+### New Tile Improvements
 #### Hop garden
 Improvement for Hops luxury resource. Required for Brewery building. Unlocked by Fermentation tech. Increases gold and production income. Provides increased gold and production income after researching of Fertilizer.
 
@@ -29,30 +24,23 @@ Improvement for Hops luxury resource. Required for Brewery building. Unlocked by
 Improvement for Tea luxury resource. Required for Teahouse building. Unlocked by Fermentation tech. Increases gold and production income. Provides increased gold and production income after researching of Fertilizer.
 
 ### New buidings
-
 #### Brewery
 New building which decreasing production, but increasing hapiness, food, culture and gold income. +33% great person generation in all cities. Requires Fermentation tech and Hop garden improvement.
-
 #### Teahouse
 New building increasing hapiness, culture and gold income. Must not be on plains. Culture in all cities increased by 25%. Gold from all trade routes +25%. Requires Fermentation tech and Hop garden improvement.
 
-## Recommend modifications
-[![Lands of the Bohemian Crown by Naprogramuji.eu ℠](https://img.shields.io/badge/Naprogramuji.eu%20%E2%84%A0-Lands%20of%20the%20Bohemian%20Crown-blue?style=for-the-badge)](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown)
-[![Other mods](https://img.shields.io/badge/Other%20mods-Feel%20free%20to%20use-blue?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1043Ng9ukrL3y8MUXBVl7-C9JsQGnBi5R5mkmS2l7FFg)
+## Recommend Mods
+- [Extra Resources by Cavenir](https://github.com/Cavenir/Extra-Resources)
+- [Civ 5 Expansion v2.2](https://cdn.discordapp.com/attachments/664739473367760908/716157804846514230/Civ5ExpansionModv2.2.zip)
 
-## Donations
-[![Patreon](https://img.shields.io/badge/Patreon-Donate-blue?style=for-the-badge&logo=patreon)](https://www.patreon.com/tomastriska)
-
-## Todo
-- Coffee luxury resource
-- Coffee plantation
-- Coffeehouse
+## Notes
+This mod is a fork of Iver's Fermentation Mod, released under the CC0 - 1.0 license.
 
 ## Credits
-[![Barrel by Adricons](https://img.shields.io/badge/Adricons-Fermentation%20tech%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=fermenting&i=217198)
-[![hop by Phạm Thanh Lộc](https://img.shields.io/badge/Phạm%20Thanh%20Lộc-Hops%20resource%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=hop&i=2803410)
-[![Hops by dDara](https://img.shields.io/badge/dDara-Hop%20garden%20improvement%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=hop&i=1821207)
-[![pub by LAFS](https://img.shields.io/badge/LAFS-Brewery%20building%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=brewery&i=2559155)
-[![Tea by Livia Chen](https://img.shields.io/badge/Livia%20Chen-Tea%20resource%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=tea&i=2530821)
-[![Tea Plantation by BomSymbols](https://img.shields.io/badge/BomSymbols-Tea%20plantation%20improvement%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=tea%20plantation&i=516754)
-[![Tea by Ker'is](https://img.shields.io/badge/Ker'is-Teahouse%20building%20icon-blue?style=flat-square)](https://thenounproject.com/term/tea/1733779/)
+- [Barrel icon by Adricons](https://thenounproject.com/search/?q=fermenting&i=217198)
+- [Hops resource icon by Phạm Thanh Lộc](https://thenounproject.com/search/?q=hop&i=2803410)
+- [Hop garden icon by dDara](https://thenounproject.com/search/?q=hop&i=1821207)
+- [pub (Brewery Icon) by LAFS](https://thenounproject.com/search/?q=brewery&i=2559155)
+- [Tea resource icon by Livia Chen](https://thenounproject.com/search/?q=tea&i=2530821)
+- [Tea Plantation icon by BomSymbols](https://thenounproject.com/search/?q=tea%20plantation&i=516754)
+- [Tea house icon by Ker'is](https://thenounproject.com/term/tea/1733779/)
