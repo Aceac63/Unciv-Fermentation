@@ -1,0 +1,103 @@
+
+game.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+ResourceIcons/Tea
+  rotate: false
+  xy: 2, 2
+  size: 1748, 1748
+  orig: 1748, 1748
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+BuildingIcons/Brewery
+  rotate: false
+  xy: 2, 606
+  size: 603, 603
+  orig: 603, 603
+  offset: 0, 0
+  index: -1
+BuildingIcons/Café
+  rotate: false
+  xy: 1170, 816
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+BuildingIcons/Teahouse
+  rotate: false
+  xy: 1302, 1242
+  size: 572, 572
+  orig: 572, 572
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Coffee plantation
+  rotate: false
+  xy: 1170, 414
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Hop garden
+  rotate: false
+  xy: 2, 32
+  size: 572, 572
+  orig: 572, 572
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Tea plantation
+  rotate: false
+  xy: 704, 1218
+  size: 596, 596
+  orig: 596, 596
+  offset: 0, 0
+  index: -1
+ResourceIcons/Coffee
+  rotate: false
+  xy: 1572, 840
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Hops
+  rotate: false
+  xy: 607, 648
+  size: 561, 561
+  orig: 561, 561
+  offset: 0, 0
+  index: -1
+TechIcons/Fermentation
+  rotate: false
+  xy: 2, 1211
+  size: 700, 603
+  orig: 700, 603
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coffee
+  rotate: false
+  xy: 2, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hops
+  rotate: false
+  xy: 1876, 1786
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tea
+  rotate: false
+  xy: 1572, 810
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
