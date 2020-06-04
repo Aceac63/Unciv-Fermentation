@@ -3,16 +3,16 @@ This mod adds 3 new resources, 3 new buildings, and the Fermentation tech.
 
 ## Features
 ### New resources
-#### Hops
-![Hops](https://github.com/Iver88/Unciv-Fermentation/blob/master/Fermentation/Preview/Hops.png?raw=true)
-#### Tea
-![Tea](https://github.com/Iver88/Unciv-Fermentation/blob/master/Fermentation/Preview/Tea.png?raw=true)
-#### Coffee
+- Hops
+- Tea
+- Coffee
 
-### New techs
+They are Luxury Resources that provides gold.
+
+### New Technologies
 
 #### Fermentation
-Unlocks Hop garden and Tea plantation improvements for Hops and Tea luxury resources and Brewery and Teahouse buildings. Requires Calendar for unlock.
+Unlocks Hop garden, Coffee plantation, and Tea plantation improvements for Hops, Coffee, and Tea luxury resources and Brewery, Cafe, and Teahouse buildings. Requires Calendar in order to unlock.
 
 ### New Tile Improvements
 #### Hop garden
@@ -20,16 +20,17 @@ Improvement for Hops luxury resource. Required for Brewery building. Unlocked by
 #### Tea plantation
 Improvement for Tea luxury resource. Required for Teahouse building. Unlocked by Fermentation tech. Increases gold and production income. Provides increased gold and production income after researching of Fertilizer.
 #### Coffee Plantation
+Improvement for Coffee luxury resource. Required for Cafe building. Unlocked by Fermentation tech. Increases gold and food income. Provides increased gold and food income after researching of Fertilizer.
 
-
-### New buidings
+### New Buildings
 #### Brewery
 New building which decreasing production, but increasing hapiness, food, culture and gold income. +33% great person generation in all cities. Requires Fermentation tech and Hop garden improvement.
 #### Teahouse
 New building increasing hapiness, culture and gold income. Must not be on plains. Culture in all cities increased by 25%. Gold from all trade routes +25%. Requires Fermentation tech and Hop garden improvement.
 #### Cafe
+New building increases happines, culture, science, and gold income. Gives a free Social Policy. Requires Economics and a Coffee plantation.
 
-## Recommend Mods
+## Recommended Mods
 - [Extra Resources by Cavenir](https://github.com/Cavenir/Extra-Resources)
 - [Civ 5 Expansion v2.2](https://cdn.discordapp.com/attachments/664739473367760908/716157804846514230/Civ5ExpansionModv2.2.zip)
 
